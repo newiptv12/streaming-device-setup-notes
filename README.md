@@ -9,7 +9,7 @@ Plain checklists for getting live TV apps working on common devices. Each file c
 | [firestick.md](firestick.md) | Fire TV Stick and other Fire TV devices | available |
 | [error-codes.md](error-codes.md) | 401 / 403 / 404 / 503 / 511 table | available |
 | [android-tv.md](android-tv.md) | Android TV and Google TV | available |
-| samsung-tizen.md | Samsung Smart TVs (Tizen) | planned |
+| [samsung-tizen.md](samsung-tizen.md) | Samsung Smart TVs (Tizen) | available |
 | lg-webos.md | LG Smart TVs (webOS) | planned |
 | mag-box.md | MAG set-top boxes | planned |
 
