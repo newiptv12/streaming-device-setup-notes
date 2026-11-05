@@ -10,7 +10,7 @@ Plain checklists for getting live TV apps working on common devices. Each file c
 | [error-codes.md](error-codes.md) | 401 / 403 / 404 / 503 / 511 table | available |
 | [android-tv.md](android-tv.md) | Android TV and Google TV | available |
 | [samsung-tizen.md](samsung-tizen.md) | Samsung Smart TVs (Tizen) | available |
-| lg-webos.md | LG Smart TVs (webOS) | planned |
+| [lg-webos.md](lg-webos.md) | LG Smart TVs (webOS) | available |
 | mag-box.md | MAG set-top boxes | planned |
 
 Menu names change between software versions. Every path in these notes comes from the device maker's own help pages, which are listed at the end of each file.
