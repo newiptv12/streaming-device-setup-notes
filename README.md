@@ -11,7 +11,7 @@ Plain checklists for getting live TV apps working on common devices. Each file c
 | [android-tv.md](android-tv.md) | Android TV and Google TV | available |
 | [samsung-tizen.md](samsung-tizen.md) | Samsung Smart TVs (Tizen) | available |
 | [lg-webos.md](lg-webos.md) | LG Smart TVs (webOS) | available |
-| mag-box.md | MAG set-top boxes | planned |
+| [mag-box.md](mag-box.md) | MAG set-top boxes | available |
 
 Menu names change between software versions. Every path in these notes comes from the device maker's own help pages, which are listed at the end of each file.
 
